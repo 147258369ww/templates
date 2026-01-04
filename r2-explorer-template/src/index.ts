@@ -7,5 +7,5 @@ export default R2Explorer({
 
 	// Learn more how to secure your R2 Explorer instance:
 	// https://r2explorer.com/getting-started/security/
-	// cfAccessTeamName: "my-team-name",
+	cfAccessTeamName: "wjm2005",
 });
